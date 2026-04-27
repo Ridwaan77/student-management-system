@@ -1,5 +1,9 @@
 teacher ahmed 
 abdi 
 kamil
+<<<<<<< HEAD
 maxamed 
+=======
+maxamed
+>>>>>>> test
 jamac
